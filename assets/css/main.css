@@ -1,10 +1,20 @@
 /* General  */
 .bg-indoexpat {
     background-color: #d00;
+    font-color: white;
 }
 /* Topbar  */
 #ie_topbar .date {
     font-size: 14px;
+    font-color: white;
+}
+            .topnav {
+    font-size: 14px;
+    font-color: white;
+}
+            .sosmed {
+    font-size: 14px;
+    font-color: white; 
 }
 
 /* Header  */
