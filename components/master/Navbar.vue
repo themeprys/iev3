@@ -17,10 +17,13 @@
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
           <ul class="navbar-nav me-auto mb-2 mb-lg-0">
             <li class="nav-item">
-              <a class="nav-link active" aria-current="page" href="#">Home</a>
+              <a class="nav-link active fa fa-home" aria-current="page" href="#"></a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#">Link</a>
+              <a class="nav-link" href="#">NEWS</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">BUSINESS</a>
             </li>
             <li class="nav-item dropdown">
               <a
@@ -30,31 +33,97 @@
                 data-bs-toggle="dropdown"
                 aria-expanded="false"
               >
-                Dropdown
+                LIFESTYLE
               </a>
               <ul class="dropdown-menu">
-                <li><a class="dropdown-item" href="#">Action</a></li>
-                <li><a class="dropdown-item" href="#">Another action</a></li>
-                <li><hr class="dropdown-divider" /></li>
-                <li>
-                  <a class="dropdown-item" href="#">Something else here</a>
-                </li>
+                <li><a class="dropdown-item" href="#">ARTS/ENTERTAINMENT</a></li>
+                <li><a class="dropdown-item" href="#">FOOD & DRINK</a></li>
+                <li><a class="dropdown-item" href="#">SPORTS/HEALTH</a></li>
+              </ul>
+            </li>
+            <li class="nav-item dropdown">
+              <a
+                class="nav-link dropdown-toggle"
+                href="#"
+                role="button"
+                data-bs-toggle="dropdown"
+                aria-expanded="false"
+              >
+                OUTREACH
+              </a>
+              <ul class="dropdown-menu">
+                <li><a class="dropdown-item" href="#">CHARITIES</a></li>
+                <li><a class="dropdown-item" href="#">CONSERVATION</a></li>
+                <li><a class="dropdown-item" href="#">SCAMS IN THE CITY</a></li>
+                <li><a class="dropdown-item" href="#">OBSERVATIONS</a></li>
+              </ul>
+            </li>
+            <li class="nav-item dropdown">
+              <a
+                class="nav-link dropdown-toggle"
+                href="#"
+                role="button"
+                data-bs-toggle="dropdown"
+                aria-expanded="false"
+              >
+                EDUCATION
+              </a>
+              <ul class="dropdown-menu">
+                <li><a class="dropdown-item" href="#">ARTICLES</a></li>
+                <li><a class="dropdown-item" href="#">SCHOOL FINDER</a></li>
+              </ul>
+            </li>
+            <li class="nav-item dropdown">
+              <a
+                class="nav-link dropdown-toggle"
+                href="#"
+                role="button"
+                data-bs-toggle="dropdown"
+                aria-expanded="false"
+              >
+                TRAVEL
+              </a>
+              <ul class="dropdown-menu">
+                <li><a class="dropdown-item" href="#">BOOK NOW</a></li>
               </ul>
             </li>
             <li class="nav-item">
-              <a class="nav-link disabled">Disabled</a>
+              <a class="nav-link">EXPAT INFO</a>
+            </li>
+            <li class="nav-item dropdown">
+              <a
+                class="nav-link dropdown-toggle"
+                href="#"
+                role="button"
+                data-bs-toggle="dropdown"
+                aria-expanded="false"
+              >
+                VIDEO
+              </a>
+              <ul class="dropdown-menu">
+                <li><a class="dropdown-item" href="#">PODCAST</a></li>
+              </ul>
+            </li>
+            <li class="nav-item dropdown">
+              <a
+                class="nav-link dropdown-toggle"
+                href="#"
+                role="button"
+                data-bs-toggle="dropdown"
+                aria-expanded="false"
+              >
+                MEMBERS
+              </a>
+              <ul class="dropdown-menu">
+                <li><a class="dropdown-item" href="#">MY ACCOUNT</a></li>
+                <li><a class="dropdown-item" href="#">CLASSIFIEDS</a></li>
+                <li><a class="dropdown-item" href="#">EVENTS</a></li>
+              </ul>
             </li>
           </ul>
           <form class="d-flex" role="search">
-            <!-- <input
-              class="form-control me-2"
-              type="search"
-              placeholder="Search"
-              aria-label="Search"
-            /> -->
-            <button class="btn btn-outline-success" type="submit">
-              Search
-            </button>
+            <ul class="fa fa-search" type="submit">
+            </ul>
           </form>
         </div>
       </div>
