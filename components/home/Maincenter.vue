@@ -1,6 +1,6 @@
 <template>
     <div>
-      Maincenter Ervin
+      Maincenter
     </div>
   </template>
   

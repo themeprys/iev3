@@ -6,18 +6,39 @@
 #ie_topbar .date {
     font-size: 14px;
     font-color: white;
+    padding-top: 8px;
 }
-            .topnav {
+.sosmed ul.nav li.nav-item a {
     font-size: 14px;
-    font-color: white;
+    color: white; 
+    padding-top: 12px;
 }
-            .sosmed {
+.sosmed ul.nav li.nav-item a:hover {
     font-size: 14px;
-    font-color: white; 
+    color: red; 
 }
-
+.topnav ul.nav li.nav-item a {
+    font-size: 14px;
+    color:white ;
+}
+.topnav ul.nav li.nav-item a:hover {
+    font-size: 14px;
+    color:red ;
+}
 /* Header  */
 /* Navbar  */
+a.nav-link.active.fa.fa-home {
+    color: white;
+    padding-top: 10px;
+}
+a.nav-link {
+    color: white;
+    font-weight: bold;
+}
+ul.fa.fa-search {
+    color: white;
+    padding-top: 12px;
+}
 /* Hero */
 /* Main General  */
 /* Main Left */
