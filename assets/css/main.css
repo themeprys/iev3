@@ -1,7 +1,6 @@
 /* General  */
 .bg-indoexpat {
     background-color: #d00;
-    font-color: white;
 }
 /* Topbar  */
 #ie_topbar .date {
@@ -28,6 +27,12 @@
 /* Main Bottom Left  */
 /* Main Bottom Right  */
 /* Footer  */
+.bg-footer {
+    background-color: rgb(27, 27, 27);
+}
+.bg-copyright {
+    background-color: black;
+}
 /* Copyright  */
 
 

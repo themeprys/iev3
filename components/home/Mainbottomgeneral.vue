@@ -1,8 +1,17 @@
 <template>
-    <div>
-      Mainbottomgeneral
+ <div>
+  <div class="container">
+    <div class="row py-4">
+      <div class="col-4">
+        <HomeMainbottomleft />
+      </div>
+      <div class="col-8">
+        <HomeMainbottomright />
+      </div>
     </div>
-  </template>
+  </div>
+</div>
+</template>
   
   <script>
   export default {

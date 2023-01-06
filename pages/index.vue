@@ -6,7 +6,5 @@
     <HomeMaincenter />
     <HomeMainright />
     <HomeMainbottomgeneral />
-    <HomeMainbottomleft />
-    <HomeMainbottomright />
   </div>
 </template> 
