@@ -23,7 +23,7 @@
 }
 .topnav ul.nav li.nav-item a:hover {
     font-size: 14px;
-    color:red ;
+    color:red;
 }
 /* Header  */
 /* Navbar  */
@@ -46,7 +46,18 @@ ul.fa.fa-search {
 /* Main Right  */
 /* Main Bottom General  */
 /* Main Bottom Left  */
+#ie_mainbottomleft 
+.title ul.judul li.judul-item a {
+    font-size: 12px;
+    color:black;
+    font-weight: bold;
+}
+.title ul.judul li.judul-item a:hover {
+    font-size: 12px;
+    color:red;
+}
 /* Main Bottom Right  */
+
 /* Footer  */
 .bg-footer {
     background-color: rgb(27, 27, 27);
